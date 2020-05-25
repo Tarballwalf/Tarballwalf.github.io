@@ -15,7 +15,7 @@
 }
 
 #nameandfont {
-    font: 128px 'Fent';
+    font: 128px './fonts/Fent.ttf';
     color: #910e0f;
     text-align: center;
 }
