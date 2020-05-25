@@ -15,7 +15,8 @@
 }
 
 #nameandfont {
-    font: 128px './fonts/Fent.ttf';
+    font: 128px 'font';
+    src: url('./fonts/font.ttf');
     color: #910e0f;
     text-align: center;
 }
