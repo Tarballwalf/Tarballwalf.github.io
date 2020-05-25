@@ -1,14 +1,12 @@
 var messages = [
     'Not Found',
-    'Oof',
-    'You seem to be lost...'
+    'You seem to be lost...',
+    'What are you doing?',
 ]
 
-$(function() {
-    newMessage()
-});
-
-function newMessage() {
-    var randomNumber = Math.floor(Math.random() * 20)
-    document.getElementById('message').innerHTML = messages[randomNumber];
-}
+document.onload(); {
+    function newMessage() {
+        var randomNumber = Math.floor(Math.random() * (messages.length));
+        document.getElementById('messsageDisplay').innerHTML = messages[randomNumber];
+    }
+} 
