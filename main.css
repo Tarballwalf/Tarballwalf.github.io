@@ -13,3 +13,9 @@
     bottom: 8px;
     left: 8px;
 }
+
+#nameandfont {
+    font: 128px 'Aihet Script Personal Use Only';
+    color: #910e0f;
+    text-align: center;
+}
