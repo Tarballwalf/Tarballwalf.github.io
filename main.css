@@ -15,7 +15,7 @@
 }
 
 #nameandfont {
-    font: 128px 'font';
+    font: 128px 'I forgot the name';
     color: #910e0f;
     text-align: center;
 }
@@ -24,4 +24,9 @@
     font-size: 24px;
     text-align: center;
     font-weight: bold;
+}
+
+@font-face {
+    font-family: "I forgot the name";
+    src: url("css/fonts/font.tff");
 }
