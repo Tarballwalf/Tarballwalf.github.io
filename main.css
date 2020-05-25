@@ -15,7 +15,7 @@
 }
 
 #name {
-    font: 128px 'font-1';
+    font: 128px 'aihet_script_personal_use_oRg';
     color: #910e0f;
     text-align: center;
 }
@@ -24,11 +24,4 @@
     font-size: 24px;
     text-align: center;
     font-weight: bold;
-}
-
-@font-face {
-    font-family: 'font-1';
-    src: url('fonts/font-1.woff2') format('woff2'),
-         url('fonts/font-1.woff') format('woff'),
-         url('fonts/font-1.tff') format('tff');
 }
