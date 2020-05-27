@@ -7,7 +7,7 @@
 }
 
 .border {
-    width: 682px;
+    width: 682px auto;
     overflow: hidden;
 }
 
