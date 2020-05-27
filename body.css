@@ -9,6 +9,7 @@
 .border {
     width: 690px;
     overflow: hidden;
+    white-space: nowrap;
 }
 
 @media 
@@ -16,5 +17,5 @@
 only screen and (max-width: 500px),
 /* Medium Screens */
 only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
-	.border { display: none; }
+	.notnow { display: none; }
 }
