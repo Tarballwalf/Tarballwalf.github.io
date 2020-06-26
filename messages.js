@@ -28,6 +28,8 @@ var messages = [
     'Too late to go back',
     'Portal 2 best game',
     '1986',
+    'Everybody secretly thinks that furries are hot',
+    'YIFF at 16K RESOLUTION?? - HOLY $H!T',
 ]
 function newMessage() {
         var randomNumber = Math.floor(Math.random() * (messages.length));
