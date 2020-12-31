@@ -22,7 +22,7 @@
       <p id="time" style="text-align: right; float: right; " >"Useful Programs":</p>
     </div>
     <div class="block" style="clear: both;">
-      <hr class="border" style="margin-top: 20px;"></hr>
+      <hr class="border" style="margin-top: 10px;"></hr>
     </div>
   </center>
 </body>
@@ -31,7 +31,22 @@
   <center>
     <div class="block">
       <line>
-        <zero-md src="./markdown/usefulShit.md"></zero-md>
+        <zero-md src="./markdown/usefulShit.md">
+          <template>
+            <link rel="stylesheet" href="markdown-styles.css">
+            <style>
+              h1 {
+                color: rgb(255, 255, 255);
+              }
+            </style>
+            <link rel="stylesheet" href="highlight-styles.css">
+            <style>
+              code {
+                background: yellow;
+              }
+            </style>
+          </template>
+        </zero-md>
       </line>
     </div>
     <div class="block" style="clear: both;">
