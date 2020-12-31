@@ -50,11 +50,6 @@
   font-weight: bolder;
 }
 
-.markdown-body h1 {
-  font-size: 2em;
-  margin: .67em 0;
-}
-
 .markdown-body img {
   border-style: none;
 }
@@ -97,7 +92,7 @@
 }
 
 .markdown-body a {
-  color: #0366d6;
+  color: #414141;
   text-decoration: none;
 }
 
@@ -142,18 +137,6 @@
   cursor: pointer;
 }
 
-.markdown-body kbd {
-  display: inline-block;
-  padding: 3px 5px;
-  font: 11px SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
-  line-height: 10px;
-  color: #ffffff;
-  vertical-align: middle;
-  background-color: #fafbfc;
-  border: 1px solid #d1d5da;
-  border-radius: 3px;
-  box-shadow: inset 0 -1px 0 #d1d5da;
-}
 
 .markdown-body h1,
 .markdown-body h2,
@@ -163,45 +146,6 @@
 .markdown-body h6 {
   margin-top: 0;
   margin-bottom: 0;
-}
-
-.markdown-body h1 {
-  font-size: 32px;
-}
-
-.markdown-body h1,
-.markdown-body h2 {
-  font-weight: 600;
-}
-
-.markdown-body h2 {
-  font-size: 24px;
-}
-
-.markdown-body h3 {
-  font-size: 20px;
-}
-
-.markdown-body h3,
-.markdown-body h4 {
-  font-weight: 600;
-}
-
-.markdown-body h4 {
-  font-size: 16px;
-}
-
-.markdown-body h5 {
-  font-size: 14px;
-}
-
-.markdown-body h5,
-.markdown-body h6 {
-  font-weight: 600;
-}
-
-.markdown-body h6 {
-  font-size: 12px;
 }
 
 .markdown-body p {
@@ -236,12 +180,6 @@
   margin-left: 0;
 }
 
-.markdown-body code,
-.markdown-body pre {
-  font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
-  font-size: 12px;
-}
-
 .markdown-body pre {
   margin-top: 0;
   margin-bottom: 0;
@@ -257,7 +195,7 @@
 .markdown-body :checked+.radio-label {
   position: relative;
   z-index: 1;
-  border-color: #0366d6;
+  border-color: #414141;
 }
 
 .markdown-body .border {
@@ -358,7 +296,7 @@
 
 .markdown-body .pl-c1,
 .markdown-body .pl-s .pl-v {
-  color: #005cc5;
+  color: #414141;
 }
 
 .markdown-body .pl-e,
@@ -455,7 +393,7 @@
 
 .markdown-body .pl-mi2 {
   color: #f6f8fa;
-  background-color: #005cc5;
+  background-color: #414141;
 }
 
 .markdown-body .pl-mdr {
@@ -809,8 +747,8 @@
 }
 
 .markdown-body .full-commit .btn-outline:not(:disabled):hover {
-  color: #005cc5;
-  border-color: #005cc5;
+  color: #414141;
+  border-color: #414141;
 }
 
 .markdown-body .blob-wrapper {
@@ -821,25 +759,6 @@
 .markdown-body .blob-wrapper-embedded {
   max-height: 240px;
   overflow-y: auto;
-}
-
-.markdown-body .blob-num {
-  width: 1%;
-  min-width: 50px;
-  padding-right: 10px;
-  padding-left: 10px;
-  font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
-  font-size: 12px;
-  line-height: 20px;
-  color: rgb(255, 255, 255);
-  text-align: right;
-  white-space: nowrap;
-  vertical-align: top;
-  cursor: pointer;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
 }
 
 .markdown-body .blob-num:hover {
