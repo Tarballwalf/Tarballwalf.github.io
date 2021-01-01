@@ -8,7 +8,9 @@ And modify the file path and name of the "post".
 ![image2](./images/image2.png)
 1. Use `programs.html` as a template for the code (i'm sure nobody re-wries code for every single new page).
 1. Modify `line 7`...
+
 ![image3](./images/image3.png)
+ 
  ...and `line 22`.
 ![image4](./images/image4.png)
 1. Create the Markdown file (.md file) in the `markdown` directory.
