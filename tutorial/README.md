@@ -14,7 +14,7 @@ And modify the file path and name of the "post".
 4. Modify `line 7`...
 
 ![image3](./images/image3.png)
- 
+
  ...and `line 22`.
 ![image4](./images/image4.png)
 
