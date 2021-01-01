@@ -37,8 +37,8 @@
 
 
 ### Linux
-* [betterdiscordctl](https://gist.github.com/ObserverOfTime/d7e60eb9aa7fe837545c8cb77cf31172) - Linux version for BetterDiscord
-* [TLP](https://linrunner.de/en/tlp/docs/tlp-configuration.html#links) - Linux has shit battery management so get this
+* [betterdiscordctl](https://gist.github.com/ObserverOfTime/d7e60eb9aa7fe837545c8cb77cf31172) - Linux version of BetterDiscord
+* [TLP](https://linrunner.de/en/tlp/docs/tlp-configuration.html#links) - Linux has shit battery management so better get this
 * [TLPUI](https://www.linuxuprising.com/2018/11/install-tlpui-in-ubuntu-or-linux-mint.html) - Too retarded to configure TLP manually
 * [PreMiD Linux](https://github.com/PreMiD/Linux/releases) - Linux version of PreMiD
 * [GSconnect](https://gssconnect.org) - Sync your phone to Linux
