@@ -6,7 +6,7 @@ These websites allow you to get team drives/shared drives from different school 
 
 I suggest choosing drives from EDU domains as I've had times where the drive would get deleted from random domains.
 
-Another suggestion would be to get more then one from different domains and keep backups.
+Another suggestion would be to get more then one team drive from different domains and keep backups.
 
 * [CCSF](https://teamdrive.mfoxx.workers.dev)
 * [University of Sheffield](https://gdrive.zppcw.cn/)
