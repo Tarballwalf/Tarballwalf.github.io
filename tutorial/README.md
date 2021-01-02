@@ -11,19 +11,23 @@ And modify the file path and name of the "post".
 ![image2](./images/image2.png)
 
 3. Use `programs.html` as a template for the code (i'm sure nobody re-wries code for every single new page).
-4. Modify `line 7`...
+4. Modify `line 14, 15 and 16` with the post title.
 
 ![image3](./images/image3.png)
 
- ...and `line 22`.
+5. Modify `line 7`...
+
+![image3](./images/image4.png)
+
+ ...and `line 38` with the post title.
  
-![image4](./images/image4.png)
+![image4](./images/image5.png)
 
-5. Create the Markdown file (.md file) in the `markdown` directory.
-6. Go back to your "post" and edit `line 36` adding the markdown file.
+6. Create the Markdown file (.md file) in the `markdown` directory.
+7. Go back to your "post" and edit `line 52` adding the markdown file.
 
-![image5](./images/image5.png)
+![image5](./images/image6.png)
 
-7. Create the "post" in the markdown file and you're done. Don't forget to commit and push the changes.
+8. Create the "post" in the markdown file and you're done. Don't forget to commit and push the changes.
 
 Links: [Mastering Markdown](https://guides.github.com/features/mastering-markdown/), [Adding images into markdown](https://www.codegrepper.com/code-examples/html/add+image+in+markdown+github)
