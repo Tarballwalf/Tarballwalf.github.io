@@ -4,7 +4,6 @@
 * [Waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe) - Fuck the web version, and has no limitations (if your PC can handle it)
 * [Rainmeter](https://www.rainmeter.net/) - Who doesn't love endless desktop customization
 * [TranslucentTB](https://www.microsoft.com/en-us/p/translucenttb/9pf4kz2vn4w9?activetab=pivot:overviewtab) - Make your taskbar transparent and look nice
-* [Firefox-UWP-Style](https://github.com/Guerra24/Firefox-UWP-Style) - Best UWP style theme for Firefox
 * [Chocolatey](https://chocolatey.org/) - `sudo apt install` for fucking Windows
 * [Spicefy-cli](https://github.com/khanhas/spicetify-cli/) - Fuck the default Spotify
 * [BBDInstaller](https://github.com/rauenzi/BBDInstaller/releases) - Fuck the default Discord
@@ -48,7 +47,7 @@
 * [Lutris](https://lutris.net/) - PlayOnLinux but better
 
 ### Firefox Addons/Theme
-* [Firefox UWP Style](https://github.com/Guerra24/Firefox-UWP-Style) - One of the simple and good looking themes
+* [Firefox-UWP-Style](https://github.com/Guerra24/Firefox-UWP-Style) - Best UWP style theme for Firefox
 * [DarkReader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/) - Why the fuck does light mode still exists?
 * [Country Flags & IP Whois](https://addons.mozilla.org/en-US/firefox/addon/country-flags-ip-whois/) - "Country: India"
 * [Ublock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) - FUCK ADS GET THEM OUT OF MY FUCKING FACE
