@@ -8,7 +8,7 @@
 * HDD(2): 2TB Segate Barracuda 7200rpm
 * Case: Kolink Stronghold
 * OS: Windows 10 Pro
-* [Image](https://i.imgur.com/29fF79d.jpg)
+* [Image](pc.jpg)
 
 ## Setup:
 * Monitor 1: DELL S2419HGF 24" 144Hz
@@ -18,14 +18,14 @@
 * Mouse: Razer Deathadder Elite
 * Mouse Pad: Razer Goliathus Extended Chroma
 * Headset: Razer Kraken Black
-* [Image](https://i.imgur.com/uMWwepg.jpg)
+* [Image](setup.jpg)
 
 
 ## Home Server Specs:
 * CPU: Intel Xeon X3320
 * RAM: 2x 2GB DDR2 (4GB total)
 * HDD(OS) : Segate Barracuda 250GB 7200rpm
-* [Image](https://i.imgur.com/4cg6Hoj.jpg)
+* [Image](server.jpg)
 
 Storage Setup:
 * HDD1: Segate Barracuda 1TB 7200rpm
@@ -39,10 +39,10 @@ Dell Inspiron 3542
 * RAM: 8GB DDR3L HyperX Impact 1600MHz
 * SSD: WesternDigital Blue NAND 500GB
 * OS: Ubuntu 20.04
-* [Image](https://i.imgur.com/Ydi7ltM.jpg)
+* [Image](laptop.jpg)
 
 ## Phone:
 * Galaxy S10+ Ceramic Black 128GB
 * Exyos 9820 Variant
 * SM-G975F
-* [Image](https://i.imgur.com/s18cRRh.jpg)
+* [Image](phone.jpg)
