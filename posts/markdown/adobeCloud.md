@@ -26,7 +26,7 @@ Password:
 
 Download the .iso file, **other files are NOT necessary**.
 
-The version number is determined but the `u(number)` at the end of the file, meaning, higher the number the newer.
+The version number is determined by the `u(number)` at the end of the file, meaning, higher the number the newer.
 
 ### Older versions:
 * [telegra.ph](https://telegra.ph/Older-adobe-cc-2020-and-2019-versions-04-03)
