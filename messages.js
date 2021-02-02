@@ -14,7 +14,6 @@ var messages = [
     'Lost, lost, lost',
     '(:',
     'The Big Oof',
-    'Tarball is dead.',
     'Quote of the day. "if it ain\'t broke, don\'t try to fix it"',
     'The things you learn in maturity aren\'t simple things such as acquiring information and skills. You learn engage in self-destructive behavior.',
     'Reconsider your brain',
@@ -23,7 +22,6 @@ var messages = [
     'DED_MOON was here',
     'No.',
     'Death.',
-    'The customer you are trying to call doesn\'t answer, try again later',
     '\“If you tell a big enough lie and tell it frequently enough, it will be believed.\”',
     'Too late to go back',
     'Portal 2 best game',
@@ -33,7 +31,11 @@ var messages = [
     'Hexinity is a cutie',
     'Zhitri is a cutie',
     'CBT',
-    'Avira is a cutie'
+    'Avira is a cutie',
+    'DED_MOON is a cutie but not admitting it',
+    'The Elder Scc̷͍̎r̷̢̠̟͕̞̈́͒̎͊̇o̷̡͈̫̞̔̈̚ĺ̷͔͔̳̌͆l̵̡̝͓̈́̈́͑̚̕͝s̴̰̟̙̑̽͂̀ͅ V̴͔̫̄͆̄̅̽̾̊: S̷̨̡̢̩̺̝̙̲̗̜͕̎̌̏̃͋͂͋̆̏̀̾̍̊͊̎̓̐͑͜͝͝k̵͍͉̺̣͚̝̈̅͂́̀̏̽̎̃̀̆̎̆̽͘̚͝y̵̗͉͍̙͔͆̆̓ͅͅr̶̗͎̩̈̅̃̿̋̄̂͂̅́͑̓̚ͅĩ̵̢̛͍̩̗̤̠͜͝m̷̨̛̜̭̜̥̝̫̒̀̿̄͊̕͜',
+    'xxxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzzzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzxzzxzxzxzxzxzxzzxzxzxzxzxzxzxzxzxzxxzxzxzxzzzxzxzxzxzxzxzxzxzx',
+    'Maws and Paws'
 ]
 function newMessage() {
         var randomNumber = Math.floor(Math.random() * (messages.length));

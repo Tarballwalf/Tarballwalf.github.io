@@ -1,16 +1,3 @@
-* {
-    background: #000000;
-    color: #ffffff;
-  }
-  
-body {
-    font: 14px 'Segoe UI', Tahoma, Verdana, sans-serif;
-}
-
-line {
-    display: block;
-}
-
 #donotcopy {
     font-size: 11px;
     position: fixed;
