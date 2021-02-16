@@ -32,7 +32,7 @@
 * [OBS Studio](https://obsproject.com/) - The only good recording program (besides Shadowplay). It's open source too
 * [Hamachi](https://vpn.net) - I'm sure you want to host servers and not give your public IP, or port forwarding is too much to ask for
 * [WhatPulse](https://whatpulse.org/) - Stats for your computer addiction
-
+* [EdgeAndBingDeflector](https://github.com/pulsejet/EdgeAndBingDeflector) - No Microsoft, no.
 
 ### Linux
 * [betterdiscordctl](https://gist.github.com/ObserverOfTime/d7e60eb9aa7fe837545c8cb77cf31172) - Linux version of BetterDiscord
