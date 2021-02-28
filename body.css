@@ -19,6 +19,14 @@ line {
     max-width: 682px;
 }
 
+.sblock {
+    font-size: 12px;
+    text-align: left;
+    margin-left:120px auto;
+    margin-right:120px auto;
+    max-width: 454px;
+}
+
 .border {
     width: 682px auto;
     margin: auto;
