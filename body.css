@@ -28,6 +28,14 @@ line {
     overflow: hidden;
 }
 
+
+.bordervr {
+  border-left: 1px dashed #cacaca;
+  border-right: 1px dashed #cacaca;
+  height: auto;
+}
+
+
 a:hover {
     color: #808080;
 }
