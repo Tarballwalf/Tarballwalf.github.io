@@ -44,5 +44,6 @@ Dell Inspiron 3542
 ## Phone:
 * Galaxy S10+ Ceramic Black 128GB
 * Exynos 9820 Variant
-* SM-G975F
+* Whitestone Dome Glass Screen Protector
+* dbrand Teardown
 * [Image](/images/computerSetup/phone.jpg)
