@@ -10,7 +10,7 @@ Before starting off, this is a guide on how to install Office 2019 using Volume 
 
 > Office suites have separate setup keys for online functionality like web apps. These keys are not the same as the MAK product keys and cannot be used for volume activation of desktop products. 
 
-![vlcs](/images/configureOffice2019/vlcs.png)
+![vlcs](./assets/deployOffice2019/vlcs.png)
 
 ### Download the Office Deployment Tool (ODT)
 
@@ -18,7 +18,7 @@ Before starting off, this is a guide on how to install Office 2019 using Volume 
 1. After it's done downloading, open it and accept the terms of service that you 100% will read.
 1. You will be asked to choose a folder to store the extracted setup files. Navigate to the root level of your computer's hard drive (C:) and click `Make New Folder`. Then, name the folder `OfficeSetup` and continue with the extraction process. Note that these instructions won't work if you choose a different folder name or location. 
 
-![setup](/images/configureOffice2019/setup.png)
+![setup](./assets/deployOffice2019/setup.png)
 
 4. When you are finished, your new `OfficeSetup` folder should have a file named `setup.exe` and some sample `configuration.xml` files. Delete the configuration files. You only need to keep the setup file.
 
@@ -44,16 +44,16 @@ Refer to [this guide](https://docs.microsoft.com/en-us/deployoffice/office2019/d
 
 | Office Suites                          | Project                       | Visio                            |
 |----------------------------------------|-------------------------------|----------------------------------|
-| [Office Standard 2019 (32-bit)](https://www.techsoup.org/SiteCollectionDocuments/Microsoft%20Office%202019%20Configuration%20Files/configuration-office-standard-2019-32-bit.xml)          | [Project 2019 (32-bit)](https://www.techsoup.org/SiteCollectionDocuments/Microsoft%20Office%202019%20Configuration%20Files/configuration-project-standard-2019-32-bit.xml)          | [Visio Standard 2019 (32-bit)](https://www.techsoup.org/SiteCollectionDocuments/Microsoft%20Office%202019%20Configuration%20Files/configuration-visio-standard-2019-32-bit.xml)    |
-| [Office Standard 2019 (64-bit)](https://www.techsoup.org/SiteCollectionDocuments/Microsoft%20Office%202019%20Configuration%20Files/configuration-office-standard-2019-64-bit.xml)          | [Project 2019 (64-bit)](https://www.techsoup.org/SiteCollectionDocuments/Microsoft%20Office%202019%20Configuration%20Files/configuration-project-standard-2019-64-bit.xml)         | [Visio Standard 2019 (64-bit)](https://www.techsoup.org/SiteCollectionDocuments/Microsoft%20Office%202019%20Configuration%20Files/configuration-visio-standard-2019-64-bit.xml)     |
-| [Office Professional Plus 2019 (32-bit)](https://www.techsoup.org/SiteCollectionDocuments/Microsoft%20Office%202019%20Configuration%20Files/configuration-office-professional-plus-2019-32-bit.xml) | [Project Professional (32-bit)](https://www.techsoup.org/SiteCollectionDocuments/Microsoft%20Office%202019%20Configuration%20Files/configuration-project-professional-2019-32-bit.xml) | [Visio Professional 2019 (32-bit)](https://www.techsoup.org/SiteCollectionDocuments/Microsoft%20Office%202019%20Configuration%20Files/configuration-visio-professional-2019-32-bit.xml) |
-| [Office Professional Plus 2019 (64-bit)](https://www.techsoup.org/SiteCollectionDocuments/Microsoft%20Office%202019%20Configuration%20Files/configuration-office-professional-plus-2019-64-bit.xml) | [Project Professional (64-bit)](https://www.techsoup.org/SiteCollectionDocuments/Microsoft%20Office%202019%20Configuration%20Files/configuration-project-professional-2019-64-bit.xml) | [Visio Professional 2019 (64-bit)](https://www.techsoup.org/SiteCollectionDocuments/Microsoft%20Office%202019%20Configuration%20Files/configuration-visio-professional-2019-64-bit.xml) |
+| [Office Standard 2019 (32-bit)](./assets/deployOffice2019/configuration-office-standard-2019-32-bit.xml)          | [Project 2019 (32-bit)](./assets/deployOffice2019/configuration-project-standard-2019-32-bit.xml)          | [Visio Standard 2019 (32-bit)](./assets/deployOffice2019/configuration-visio-standard-2019-32-bit.xml)    |
+| [Office Standard 2019 (64-bit)](./assets/deployOffice2019/configuration-office-standard-2019-64-bit.xml)          | [Project 2019 (64-bit)](./assets/deployOffice2019/configuration-project-standard-2019-64-bit.xml)         | [Visio Standard 2019 (64-bit)](./assets/deployOffice2019/configuration-visio-standard-2019-64-bit.xml)     |
+| [Office Professional Plus 2019 (32-bit)](./assets/deployOffice2019/configuration-office-professional-plus-2019-32-bit.xml) | [Project Professional (32-bit)](./assets/deployOffice2019/configuration-project-professional-2019-32-bit.xml) | [Visio Professional 2019 (32-bit)](./assets/deployOffice2019/configuration-visio-professional-2019-32-bit.xml) |
+| [Office Professional Plus 2019 (64-bit)](./assets/deployOffice2019/configuration-office-professional-plus-2019-64-bit.xml) | [Project Professional (64-bit)](./assets/deployOffice2019/configuration-project-professional-2019-64-bit.xml) | [Visio Professional 2019 (64-bit)](./assets/deployOffice2019/configuration-visio-professional-2019-64-bit.xml) |
 
 1. Next, follow the instructions below to add the product key that you obtained from the VLSC to the configuration file.
 
 1. Edit the configuration file, Look for the following string of text in the configuration file: `PIDKEY="#####-#####-#####-#####-#####"` 
 
-![config](/images/configureOffice2019/config.png)
+![config](./assets/deployOffice2019/config.png)
 
 3.  replace `#####-#####-#####-#####-#####` with your MAK client activation key by copying and pasting the key from wherever you saved it. Or use the GVLK keys provided by microsoft [here](https://docs.microsoft.com/en-us/DeployOffice/vlactivation/gvlks) (note this will not fully active the software, just allow you to install it)
 
@@ -68,12 +68,12 @@ Note that all earlier versions of Office will be uninstalled when you install Of
 1. Navigate to your "OfficeSetup" folder in File Explorer.
 1. Open the Command Prompt, click the address bar in the File Explorer window that you opened and type `cmd`. 
 
-![cmd](/images/configureOffice2019/cmd.png)
-![cmd2](/images/configureOffice2019/cmd2.png)
+![cmd](./assets/deployOffice2019/cmd.png)
+![cmd2](./assets/deployOffice2019/cmd2.png)
 
 3. Type the following `setup /download configuration.xml` into the Command Prompt that you opened.
 
-![prompt1](/images/configureOffice2019/prompt1.png)
+![prompt1](./assets/deployOffice2019/prompt1.png)
 
 It will look as if nothing is happening, but your product will be downloading in the background. The download will be about 4GB in total and might take a while to finish.
 

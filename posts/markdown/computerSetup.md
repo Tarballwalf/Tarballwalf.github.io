@@ -8,7 +8,7 @@
 * HDD(2): 2TB Segate Barracuda 7200rpm
 * Case: Kolink Stronghold
 * OS: Windows 10 Pro
-* [Image](/images/computerSetup/pc.jpg)
+* [Image](./assets/computerSetup/pc.jpg)
 
 ## Setup:
 * Monitor 1: DELL S2419HGF 24" 144Hz
@@ -18,14 +18,14 @@
 * Mouse: Razer Deathadder Elite
 * Mouse Pad: Razer Goliathus Extended Chroma
 * Headset: Razer Kraken Black
-* [Image](/images/computerSetup/setup.jpg)
+* [Image](./assets/computerSetup/setup.jpg)
 
 
 ## Home Server Specs:
 * CPU: Intel Xeon X3320
 * RAM: 2x 2GB DDR2 (4GB total)
 * HDD(OS) : Segate Barracuda 250GB 7200rpm
-* [Image](/images/computerSetup/server.jpg)
+* [Image](./assets/computerSetup/server.jpg)
 
 Storage Setup:
 * HDD1: Segate Barracuda 1TB 7200rpm
@@ -39,11 +39,11 @@ Dell Inspiron 3542
 * RAM: 8GB DDR3L HyperX Impact 1600MHz
 * SSD: WesternDigital Blue NAND 500GB
 * OS: Ubuntu 20.04
-* [Image](/images/computerSetup/laptop.jpg)
+* [Image](./assets/computerSetup/laptop.jpg)
 
 ## Phone:
 * Galaxy S10+ Ceramic Black 128GB
 * Exynos 9820 Variant
 * Whitestone Dome Glass Screen Protector
 * dbrand Teardown
-* [Image](/images/computerSetup/phone.jpg)
+* [Image](./assets/computerSetup/phone.jpg)
