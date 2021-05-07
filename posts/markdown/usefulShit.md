@@ -75,11 +75,11 @@
 * [I don't care about cookies](https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies/) - "This website requires cooki-" OH FUCK OFF
 * [Image Search Options](https://addons.mozilla.org/en-US/firefox/addon/image-search-options/) - Find cropped yiff
 * [Imagus](https://addons.mozilla.org/en-US/firefox/addon/imagus/) - You can finally see those small icons
-* [LanguageTool](https://addons.mozilla.org/en-US/firefox/addon/languagetool/) - You're too reatded to properly spell. what did I just tell you?
+* [LanguageTool](https://addons.mozilla.org/en-US/firefox/addon/languagetool/) - You're too reatded to properly spell. What did I just tell you?
 * [LocalCDN](https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/) - Because they can track you even more
 * [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/) - They always want to track you no matter what
 * [Song Identifier](https://addons.mozilla.org/en-US/firefox/addon/song-identifier/) - Shazam but for PC
-* [SponsorBlock](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/) - ok we get it you're not payed enough by YouTube but we truly don't care
+* [SponsorBlock](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/) - ok we get it you're not paid enough by YouTube, but we truly don't care
 * [Ublock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) - FUCK ADS GET THEM OUT OF MY FUCKING FACE
 * [Universal Bypass](https://addons.mozilla.org/en-US/firefox/addon/universal-bypass/) - Give back the 5 seconds of my life
 * [User-Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/) - "This website will only work on-" nope. fuck off.
