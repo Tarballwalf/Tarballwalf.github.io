@@ -3,7 +3,7 @@
 * GPU: GTX 1050 Ti MSI 4GB GDDR5
 * RAM: 2x 8GB DDR4 HyperX Fury 2400MHz (16GB total)
 * MB: Gigabyte B360M D3H-CF
-* SSD: 240GB Kingston A400
+* SSD: 256GB Samsung MZ7TY256HDHP
 * HDD(1): 1TB Segate Barracuda 7200rpm
 * HDD(2): 2TB Segate Barracuda 7200rpm
 * Case: Kolink Stronghold
