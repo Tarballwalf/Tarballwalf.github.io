@@ -79,4 +79,4 @@ $ vi ~/.conkyrc
 
 Or alternately, edit the default config file (not recommended)
 
-Sources: [ShellHacks](https://www.shellhacks.com/install-configure-conky-linux-mint-ubuntu-debian/)
+Sources: [ShellHacks](https://www.shellhacks.com/install-configure-conky-linux-mint-ubuntu-debian/), [Conky Variables](http://conky.sourceforge.net/variables.html)
