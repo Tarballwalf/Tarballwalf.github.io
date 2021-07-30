@@ -120,41 +120,38 @@ form {
 
 /* Gallery */
 
-.gallery:hover {
-  border: 1px solid #808080;
+#gallery {
+  line-height:0;
+  column-count:5;
+  column-gap:5px;
 }
 
-.gallery img {
-  width: 100%;
-  height: auto;
+#gallery img {
+  width: 100% !important;
+  height: auto !important;
+  margin-bottom:5px;
 }
 
-.desc {
-  padding: 5px;
-  text-align: left;
-}
-
-.responsive {
-  padding: 0 5px;
-  float: left;
-  width: 25%;
-}
-
-@media only screen and (max-width: 700px) {
-  .responsive {
-    width: 50%;
-    margin: 6px 0;
+@media (max-width: 1200px) {
+  #gallery {
+   column-count:         4;
   }
 }
 
-@media only screen and (max-width: 500px) {
-  .responsive {
-    width: 100%;
+@media (max-width: 1000px) {
+  #gallery {
+   column-count:         3;
   }
 }
 
-.clearfix:after {
-  content: "";
-  display: table;
-  clear: both;
+@media (max-width: 800px) {
+  #gallery {
+   column-count:         2;
+  }
+}
+
+@media (max-width: 400px) {
+  #gallery {
+   column-count:         1;
+  }
 }
