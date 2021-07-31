@@ -127,14 +127,10 @@ form {
 }
 
 #gallery img {
+  image-rendering: optimizeSpeed !important;
   width: 100% !important;
   height: auto !important;
   margin-bottom:5px;
-}
-
-.desc {
-  padding: 5px;
-  text-align: center;
 }
 
 @media (max-width: 1200px) {
