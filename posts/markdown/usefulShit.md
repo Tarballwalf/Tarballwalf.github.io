@@ -47,6 +47,7 @@
 
 ### Android
 * [AnLinux](https://play.google.com/store/apps/details?id=exa.lnx.a) - Run Linux on your phone (requires Termux)
+* [Bluecord](https://bluesmods.com/bluecord/) - BetterDiscord for your fucking phone
 * [Evie Launcher](https://evie.com/) - I like it
 * [Image 2 Wallpaper](https://play.google.com/store/apps/details?id=com.shirobakama.wallpaper&hl=en_US) - A much better way to apply a wallpaper
 * [Instander](https://thedise.me/instander/) - Modded Instagram
